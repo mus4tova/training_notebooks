@@ -7,3 +7,5 @@ These small notebooks were created at the beginning of my prefessional journey t
 2. Credit card fraud detection: binary classification task / anomaly detection; EDA; models: naive Bayes, logistic regression, random forest, boosting (AdaBoost, catboost), convolutional neural network, autoencoder with threshold tuning
 
 3. Iris species: multiclass classification task; KNeighborsClassifier, naive Bayes, logistic regression, random forest, LinearSVC
+
+4. Diabetes prediction: binary classification task; EDA; models: KNeighborsClassifier, naive Bayes, catboost, random forest, support vector machine
