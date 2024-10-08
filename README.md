@@ -11,3 +11,5 @@ These small notebooks were created at the beginning of my prefessional journey t
 4. Diabetes prediction: binary classification task; EDA; models: KNeighborsClassifier, naive Bayes, catboost, random forest, support vector machine
 
 5. Credits score detection: multiclass classification task; KNeighborsClassifier, naive Bayes, logistic regression, random forest with hyperparameter tuning
+
+6. Click prediction: binary classification task; EDA; models: logistic regression, neural net
